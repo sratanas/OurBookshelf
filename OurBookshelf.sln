@@ -8,7 +8,10 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F5E1A9F1-B98F-4882-8980-F03BA827FCCE}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
+		CreateTables.sql = CreateTables.sql
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{E5004170-145E-43E7-8935-EC302D2D8800}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +23,10 @@ Global
 		{5127134E-E64D-4681-9DB4-45181325379B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5127134E-E64D-4681-9DB4-45181325379B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5127134E-E64D-4681-9DB4-45181325379B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5004170-145E-43E7-8935-EC302D2D8800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5004170-145E-43E7-8935-EC302D2D8800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5004170-145E-43E7-8935-EC302D2D8800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5004170-145E-43E7-8935-EC302D2D8800}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,6 @@
+C:\Users\stephanie.ratanas\source\repos\OurBookshelf\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\stephanie.ratanas\source\repos\OurBookshelf\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\stephanie.ratanas\source\repos\OurBookshelf\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\stephanie.ratanas\source\repos\OurBookshelf\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\stephanie.ratanas\source\repos\OurBookshelf\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\stephanie.ratanas\source\repos\OurBookshelf\DataLayer\obj\Debug\DataLayer.pdb
